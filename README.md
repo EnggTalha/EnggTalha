@@ -78,8 +78,11 @@ University of Karachi (UBIT) • Jan 2020 – Jan 2024
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnggTalha&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=false&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnggTalha&layout=compact&theme=tokyonight) |
 | --- | --- |
 
-### 🔥 2025 GitHub Streak
-![2025 Streak](https://streak-stats.demolab.com?user=EnggTalha&theme=tokyonight&date_format=j%20M&fire=DD2727&ring=DD2727&currStreakNum=FFFFFF&currStreakLabel=DD2727&sideNums=FFFFFF&sideLabels=FFFFFF&start_date=2025-01-01&end_date=2025-12-31)
+### 🔥 2025-Only GitHub Streak
+![2025 Streak](https://streak-stats.demolab.com?user=EnggTalha&theme=tokyonight&date_format=j%20M&start_date=2025-01-01&end_date=2025-12-31)
+
+> *Note:* This badge displays only commits between **1 Jan 2025** and **31 Dec 2025**.  
+> If it looks blank, either there are no public commits for 2025 yet or GitHub’s cache hasn’t updated.
 
 ---
 
