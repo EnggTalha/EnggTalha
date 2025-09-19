@@ -44,7 +44,7 @@ I craft innovative AI solutions for **content generation, conversational agents,
 • Built SaaS call-analytics platform with conversation summaries & sentiment detection  
 • Developed domain-specific chatbots with RAG for accurate answers  
 
-**NLP Engineer – Proxima AI (Oct 2023 – Present)**  
+**NLP Engineer – Proxima AI (Oct 2023 – March 2025)**  
 • Built cross-platform chatbots using LangChain RAG  
 • Fine-tuned BERT & open-source models for sentiment analysis  
 • Designed call-analysis systems with Whisper for speech-to-text insights  
