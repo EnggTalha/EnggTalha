@@ -1,35 +1,37 @@
-# 🌟 AI Engineer | Generative AI & LLM Specialist 🌟 |  Conversation AI Specialist 🌟
-  
+# 🌟 AI Engineer | Generative AI & LLM Specialist | Conversation AI Specialist 🌟
+
 ## 👋 About Me
 Building the future with AI—one solution at a time.  
-I’m **Talha Ahmed**, an AI Engineer specializing in **Generative AI** and **Large Language Models (LLMs)** such as Llama, OpenAI, Gemini, and more.  
+I’m **Talha Ahmed**, an AI Engineer specializing in **Generative AI** and **Large Language Models (LLMs)** such as **Llama, OpenAI, Gemini, and more**.  
 I craft innovative AI solutions for **content generation, conversational agents, and question-answering systems**, transforming complex challenges into actionable insights.
 
 ---
 
 ## 🛠 Tech Stack
-**Core Languages & Tools**  
-`Python` • `SQL` • `VS Code` • `Google Colab` • `Kaggle`  
 
-**Machine Learning & Deep Learning**  
-`Supervised/Unsupervised Learning` • `Reinforcement Learning` • `Transfer Learning`  
-Frameworks: `TensorFlow` • `PyTorch` • `Keras` • `Transformers` • `Hugging Face`  
+**Languages & Tools**  
+`Python` • `SQL` • `VS Code` • `Google Colab` • `Kaggle`
+
+**Machine & Deep Learning**  
+`Supervised/Unsupervised` • `Reinforcement Learning` • `Transfer Learning`  
+Frameworks: `TensorFlow` • `PyTorch` • `Keras` • `Transformers` • `Hugging Face`
 
 **NLP & Chatbots**  
-`Dialogflow` • `LangChain` • `SpaCy` • `NLTK` • `RAG` • `UChat`  
+`Dialogflow` • `LangChain` • `SpaCy` • `NLTK` • `RAG` • `UChat`
 
 **Generative AI & LLMs**  
-`OpenAI` • `Whisper` • `Gemini` • `LLAMA` • `Claude` • `Gemma` • `Mistral` • `Cohere`  
+`OpenAI` • `Whisper` • `Gemini` • `LLAMA` • `Claude` • `Gemma` • `Mistral` • `Cohere`
 
 **Deployment & Cloud**  
-`Streamlit` • `Gradio` • `Flask` • `AWS` • `Azure` • `VPS Hosting` • `Docker` • `Kubernetes`  
+`Streamlit` • `Gradio` • `Flask` • `AWS` • `Azure` • `VPS Hosting` • `Docker` • `Kubernetes`
 
 **Databases & Vector Stores**  
-`MySQL` • `ChromaDB` • `FAISS`  
+`MySQL` • `ChromaDB` • `FAISS`
 
 ---
 
 ## 🚀 Highlighted Projects
+
 | Project | Description |
 |--------|------------|
 | [AI Calling Agents](https://ai.digitalgraphiks.co.uk) | Multilingual WebRTC + Twilio agents with OpenAI, Cartesia TTS & Deepgram STT, silence detection, AWS S3 storage |
@@ -38,20 +40,20 @@ Frameworks: `TensorFlow` • `PyTorch` • `Keras` • `Transformers` • `Huggi
 | [Restaurant AI Bot](https://ai-restaurant-chat.digitalgraphiks.co.uk) | Restaurant reservations & menu inquiries across multiple platforms |
 | [E-commerce SQL Q&A Bot](https://ai-ecom-chat.digitalgraphiks.co.uk) | Natural-language queries mapped to SQL for live store data |
 | [ICAP AI Bot](https://ai.icap.org.pk) | Member & student Q&A using Llama + RAG |
-| [Legal Q&A Bot](https://project1.miviqgroup.com) | GPT-4 powered legal chatbot with RAG |
 
 ---
 
 ## 💼 Experience
+
 **AI Engineer – Digital Graphiks (Apr 2025 – Present)**  
-• Designed and deployed multilingual AI calling agents with OpenAI, Twilio, Cartesia, and Deepgram  
+• Designed & deployed multilingual AI calling agents with OpenAI, Twilio, Cartesia, and Deepgram  
 • Built SaaS platform for call analytics with advanced conversation summaries and sentiment detection  
 • Developed domain-specific chatbots (Dental, Restaurant, IT Support, E-commerce) with RAG for accurate answers  
 
 **NLP Engineer – Proxima AI (Oct 2023 – Present)**  
 • Created cross-platform chatbots using LangChain RAG, increasing engagement by 50%  
 • Fine-tuned BERT and other open-source models for sentiment analysis  
-• Designed call analysis systems with Whisper for speech-to-text insights  
+• Designed call-analysis systems with Whisper for speech-to-text insights  
 
 ---
 
@@ -72,9 +74,12 @@ University of Karachi (UBIT) • Jan 2020 – Jan 2024
 ---
 
 ## 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnggTalha&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=EnggTalha&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnggTalha&layout=compact&theme=tokyonight)
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnggTalha&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnggTalha&layout=compact&theme=tokyonight) |
+| --- | --- |
+
+### 🔥 Current Year GitHub Streak
+![Current Year Streak](https://streak-stats.demolab.com/?user=EnggTalha&theme=tokyonight&date_format=j%20M%5B%20Y%5D&year=2025)
 
 ---
 
