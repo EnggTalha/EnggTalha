@@ -75,11 +75,11 @@ University of Karachi (UBIT) • Jan 2020 – Jan 2024
 
 ## 📊 GitHub Statistics
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnggTalha&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnggTalha&layout=compact&theme=tokyonight) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnggTalha&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=false&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnggTalha&layout=compact&theme=tokyonight) |
 | --- | --- |
 
-### 🔥 Current Year GitHub Streak
-![Current Year Streak](https://streak-stats.demolab.com/?user=EnggTalha&theme=tokyonight&date_format=j%20M%5B%20Y%5D&year=2025)
+### 🔥 2025 GitHub Streak
+![2025 Streak](https://streak-stats.demolab.com?user=EnggTalha&theme=tokyonight&date_format=j%20M&fire=DD2727&ring=DD2727&currStreakNum=FFFFFF&currStreakLabel=DD2727&sideNums=FFFFFF&sideLabels=FFFFFF&start_date=2025-01-01&end_date=2025-12-31)
 
 ---
 
