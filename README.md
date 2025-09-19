@@ -1,4 +1,4 @@
-# 🌟 AI Engineer | Generative AI & LLM Specialist | Conversation AI Specialist 🌟  
+# 🌟 AI Engineer | Generative AI | Conversation AI Specialist 🌟  
 
 ## 👋 About Me  
 Building the future with AI—one solution at a time.  
