@@ -74,39 +74,6 @@ I'm an **AI/ML Engineer with 3+ years** of experience building and shipping **pr
 
 ---
 
-## 💼 Experience
-
-### 🏢 AI Engineer — Novatch *(Oct 2025 – Present | Remote, Dubai UAE)*
-> Distributed LLM infrastructure at scale
-
-- 🌐 Architected distributed LLM inference platform on **AWS EKS** — **1M+ daily queries**, 99.9% uptime, 5x traffic spike resilience
-- 🔍 Built production RAG with **Pinecone + fine-tuned Qwen 2.5** — **40% fewer hallucinations**, 35% better retrieval on 10M+ doc corpus
-- ⚡ Achieved **50% latency reduction** (400ms → 200ms p95) via GPTQ quantization + vLLM on multi-GPU clusters
-- 🔄 Engineered TB-scale data pipelines with **Spark + AWS EMR** — cut model retraining from weeks to **2 days**
-- 📡 Designed RESTful microservices for real-time AI (SLO: p99 < 500ms, 99.95% availability)
-
----
-
-### 🏢 AI Engineer — Digital Graphiks *(Apr 2025 – Present | Remote, Dubai UAE)*
-> Voice AI & SaaS platforms
-
-- 🎙️ Designed multilingual (English/Arabic) voice AI agents using **LiveKit, WebRTC, OpenAI & custom STT/TTS** — automated **50K+ monthly calls**, cut human agent workload 60%
-- 🔧 Fine-tuned **Mistral** for intent classification via **LoRA/QLoRA** — boosted conversational accuracy from 75% → **92%** across 10+ clients
-- 🏗️ Built white-label SaaS voice AI platform for **100K+ concurrent WebRTC sessions** with real-time analytics & human-in-the-loop workflows
-- 📊 Developed multimodal agents with **NL-to-SQL translation** — accelerated BI queries 3x for non-technical users
-
----
-
-### 🏢 NLP Engineer — Proxima AI *(Oct 2023 – Mar 2025 | Karachi, Pakistan)*
-> Conversational AI & multilingual NLP
-
-- 🤝 Scaled cross-platform AI agents (WhatsApp, Telegram, Discord) handling **20K+ monthly interactions**, cutting resolution time 50%
-- 🇵🇰 Built production **Urdu Voice AI** with fine-tuned Whisper ASR + custom TTS + Asterisk telephony — processed **5K+ PTA-compliant calls quarterly**
-- 🕸️ Implemented **hybrid Graph + Vector RAG** (Neo4j + Pinecone) for sub-second retrieval over 1M+ documents
-- 🗃️ Built NL-to-SQL interface for MySQL/PostgreSQL — reduced manual query writing **80%**
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Stack | Highlights |
